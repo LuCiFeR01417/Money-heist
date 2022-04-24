@@ -20,7 +20,6 @@ class area
 
     printf("-------------------------------------------------");
     printf("\n|               Created By:-                    |");
-    printf("\n|              Patel Meet R.                    |");
     printf("\n|            Kanani Aayush M.                   |");
     printf("\n|                                               |");
     printf("\n|          Get in for an Experience             |");
@@ -782,7 +781,7 @@ oneprintboth:   printf("1.   Woolworth Tower Residences | $79 Million   :->\n");
               printf("2. DAVID KOCH\n");
 
              printf("DOSSIER ABOUT HIM:->\n");
-             printf("\n=>David Hamilton Koch born on May 3, 1940 – August 23, 2019 was an American businessman, philanthropist, political activist, and chemical engineer. In 1970, he joined the family business: Koch Industries, the second-largest privately held company in the United States.\n");
+             printf("\n=>David Hamilton Koch born on May 3, 1940 Â– August 23, 2019 was an American businessman, philanthropist, political activist, and chemical engineer. In 1970, he joined the family business: Koch Industries, the second-largest privately held company in the United States.\n");
              printf("\n=>In July 2015, David and Charles Koch were commended by both President Obama and activist Anthony Van Jones for their bipartisan efforts to reform the prison system in the United States, for nearly 10 years.\n");
              printf("\nNow, If you want to break through the house then, Choose 1.");
              printf("\nIf you want to go back to previous menu then, Choose 2.\n");
@@ -1019,7 +1018,7 @@ oneprintboth:   printf("1.   Woolworth Tower Residences | $79 Million   :->\n");
 
              printf("DOSSIER ABOUT HIM:->\n");
              printf("\n=>Alice Louise Walton (born October 7, 1949) is an American heir to the fortune of Walmart Inc. She is the daughter of Walmart founder Sam Walton and Helen Walton, and sister of S. Robson Walton, Jim Walton and the late John T. Walton.In September 2016, she owned over US$11 billion in Walmart shares.\n");
-             printf("\n=>Walton married a prominent Louisiana investment banker in 1974 at age 24, but they were divorced 2½ years later. According to Forbes Magazine, she married the contractor who built her swimming pool soon after, but they, too, divorced quickly\n");
+             printf("\n=>Walton married a prominent Louisiana investment banker in 1974 at age 24, but they were divorced 2Â½ years later. According to Forbes Magazine, she married the contractor who built her swimming pool soon after, but they, too, divorced quickly\n");
              printf("\nNow, If you want to break through the house then, Choose 1.");
              printf("\nIf you want to go back to previous menu then, Choose 2.\n");
              cin>>choose;
@@ -1090,7 +1089,7 @@ oneprintboth:   printf("1.   Woolworth Tower Residences | $79 Million   :->\n");
 
              printf("DOSSIER ABOUT HIM:->\n");
              printf("\n=>Rob Walton was drafted in the 1969 NHL Amateur Draft by the Minnesota North Stars of the National Hockey League (NHL). He was taken in the sixth round, 61st overall. Though he was drafted into the NHL, he never played there.\n");
-             printf("\n=>He spent most of his career in the minors and World Hockey Association. While in the WHA, he played for the Minnesota Fighting Saints (1973–74), Vancouver Blazers (1973–74 to 1974-75), and Calgary Cowboys (1975–76). \n");
+             printf("\n=>He spent most of his career in the minors and World Hockey Association. While in the WHA, he played for the Minnesota Fighting Saints (1973Â–74), Vancouver Blazers (1973Â–74 to 1974-75), and Calgary Cowboys (1975Â–76). \n");
              printf("\nNow, If you want to break through the house then, Choose 1.");
              printf("\nIf you want to go back to previous menu then, Choose 2.\n");
              cin>>choose;
